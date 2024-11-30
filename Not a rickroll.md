@@ -17,7 +17,7 @@
 ___
 Inside, we both know what's been going on 
 
-	| Syntax | Description |
+	| You | Know |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| The game | And we're |
+| gonna play | It |
